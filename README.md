@@ -11,9 +11,20 @@ To run this project, you will need to have the following software installed on y
 
 
 ## Getting Started 
-Clone or download the repository:
+1. Clone or download the repository:
+```
+git clone https://github.com/buliservice/finalCapstone.git
+```
+2. Navigate to the project folder:
+```
+cd finalCapstone
+```
   
-  
+3. Open the Jupyter Notebook file:
+```
+jupyter notebook UsArrests.ipynb
+```
+
 ## Contents
 The Jupyter Notebook file UsArrests.ipynb contains the following sections:<br>
 
