@@ -5,9 +5,9 @@ This project focuses on the analysis of the US Arrests data set and aims to prov
 ## Requirements
 To run this project, you will need to have the following software installed on your computer:
 
-Jupyter Notebook <Br>
-Python 3 <Br>
-Libraries: Pandas, NumPy, Matplotlib <Br>
+- Jupyter Notebook <Br>
+- Python 3 <Br>
+- Libraries: Pandas, NumPy, Matplotlib <Br>
 
 
 ## Getting Started 
@@ -17,10 +17,10 @@ Clone or download the repository:
 ## Contents
 The Jupyter Notebook file UsArrests.ipynb contains the following sections:<br>
 
-Introduction to the data set<br>
-Data preprocessing and cleaning<br>
-Data exploration and visualization<br>
-Conclusion and insights<br>
+- Introduction to the data set<br>
+- Data preprocessing and cleaning<br>
+- Data exploration and visualization<br>
+- Conclusion and insights<br>
   
 ## Contributions
 This project is open for contributions and improvements. If you have any suggestions or fixes, feel free to submit a pull request.
