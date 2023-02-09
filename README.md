@@ -10,5 +10,5 @@ Python 3 <Br>
 Libraries: Pandas, NumPy, Matplotlib <Br>
 
 
-Getting Started 
+## Getting Started 
 Clone or download the repository:
