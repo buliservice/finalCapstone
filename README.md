@@ -31,7 +31,19 @@ cd finalCapstone
 ```
 jupyter notebook UsArrests.ipynb
 ```
-
+## Usage
   
+Run the cells in the notebook one by one, either by clicking on the Run button or by pressing Shift + Enter. <br>
+  
+You can modify the code and re-run the cells to see how the results change. <br>
+  
+Make sure to install all required libraries before running the notebook. The required libraries are listed at the top of the notebook in the first cell.
+  
+![packages](https://user-images.githubusercontent.com/58818767/218120410-4cdb33bb-a323-4338-8dda-6049df330ca7.jpg)
+  
+  
+
+
+ 
 ## Credits
 [Principal Component Analysis Visualization](https://ostwalprasad.github.io/machine-learning/PCA-using-python.html)
